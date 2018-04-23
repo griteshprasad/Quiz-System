@@ -1,0 +1,1 @@
+10. Which of the following correctly declares an array?

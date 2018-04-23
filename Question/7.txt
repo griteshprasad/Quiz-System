@@ -1,0 +1,1 @@
+7. Which other keywords are also used to declare the class other than class?

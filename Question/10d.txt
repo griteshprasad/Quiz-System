@@ -1,0 +1,1 @@
+d) array array[10];

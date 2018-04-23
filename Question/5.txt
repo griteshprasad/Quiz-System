@@ -1,0 +1,1 @@
+5. Which of the following permits function overloading in c++?
